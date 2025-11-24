@@ -2,19 +2,20 @@
 
 We return to where we began: Albert Camus was right about the diagnosis. We are meaning-seeking beings in a meaningless universe. This collision—the absurd—is permanent structural feature of human existence after the collapse of transcendent frameworks. No return to naive faith is possible for reflective consciousness. We must live with meaninglessness.
 
-But Camus's prescription failed. Revolt cannot ground ethics. The suicide argument is unjustified. His leap to solidarity commits the philosophical suicide he condemns in others. His framework is politically impotent and psychologically unsustainable. Absurdism correctly identifies the problem but provides incoherent solution.
+But Camus's prescription requires development. He correctly identified that revolt is the appropriate response, that solidarity is ethically necessary, that murder must be opposed—but he lacked the structural foundations to show *how* these conclusions follow from his diagnosis. Revolt appeared as preference, solidarity as intuition, ethics as unexplained leap. His framework was philosophically unsupported even when phenomenologically accurate. Absurdism correctly identifies the problem and correctly intuits the solution, but cannot justify the connection between them.
 
-This book has developed an alternative: **pragmatic existentialism**. By synthesizing existential phenomenology, Korsgaardian self-constitution, social constructivism, and pragmatist epistemology, we can salvage absurdism's insights while building philosophically coherent framework for living without transcendence.
+This book reconstructs the project using the structural tools Camus lacked: **pragmatic existentialism**. By showing that existential phenomenology and self-constitution theory converge—that they are complementary descriptions of the same phenomenon—we can vindicate Camus's instincts while providing operational machinery for his insights. This develops rather than replaces absurdism.
 
 ## The Achievement
 
 ### What Has Been Shown
 
-**Part I** established that absurdism is philosophically incoherent but phenomenologically insightful. The experience of absurdity is real and enduring. But Camus's response—revolt, freedom, passion—cannot be justified from his own premises. The ethical bootstrapping problem is fatal.
+**Part I** established that absurdism's architecture is incomplete. The experience of absurdity is real and enduring—Camus's phenomenology stands. But his response—revolt, freedom, passion—lacks the structural foundations needed to support it. The ethical bootstrapping problem reveals the missing machinery: Camus could not show *how* revolt generates ethics, *why* solidarity follows from shared condition, *where* limits to rebellion come from.
 
-**Part II** built foundations for pragmatic existentialism:
-- Freedom is situated, not radical (Chapter 4)
-- Ethics emerges from structure of rational agency without transcendent grounding (Chapter 5)
+**Part II** built foundations by completing the architecture:
+- Freedom is situated, not radical—constraint enables rather than limits (Chapter 4)
+- **The keystone (Chapter 5, Section 5.1)**: What Camus described phenomenologically (meaning-seeking under silence) and what Korsgaard describes structurally (self-constituting agency) are complementary descriptions of the same phenomenon. This bridge from phenomenology to structure offers a pragmatic resolution to the bootstrapping problem: normativity emerges from agential structure under Absurdist constraints, not from cosmic facts or arbitrary choice
+- Ethics emerges from self-constitution constrained by Absurdist conditions: mortality, contingency, no validation (Chapter 5, Sections 5.2-5.7)
 - Meaning is socially constituted through practices, not individually created (Chapter 6)
 
 **Part III** applied the framework to concrete living:
@@ -39,19 +40,19 @@ The result is philosophy that:
 
 Pragmatic existentialism occupies unique space in contemporary philosophy:
 
-**Not existentialism:** Avoids Sartre's metaphysical extravagance, radical freedom, and individualism
+**Not abandoning existentialism:** Vindicates Camus's insights by showing his phenomenology implies the structure he never articulated
 
-**Not absurdism:** Solves bootstrapping problem and provides positive framework
+**Not rejecting absurdism:** Reconstructs absurdism by providing the structural foundations it required—offering pragmatic resolution to bootstrapping problem while preserving Camus's core claims
 
-**Not pragmatism alone:** Takes existential phenomenology seriously, doesn't dismiss meaning questions
+**Not pragmatism alone:** Takes existential phenomenology seriously as describing real structure of agency, not dismissing meaning questions
 
-**Not Kantian ethics:** Values are situated and pragmatically tested, not a priori universal
+**Not Kantian ethics:** Values are situated and pragmatically tested, but constrained by Absurdist conditions (mortality, contingency, no cosmic validation)
 
-**Not relativism:** Constrained by recognition, coherence, and pragmatic testing
+**Not relativism:** Constrained by recognition requirements, coherence, pragmatic testing, and sustainability under full consciousness of the Absurd
 
 **Not transcendent realism:** Naturalistic and compatible with scientific worldview
 
-The synthesis has not been attempted before. The specific philosophical contribution is showing that Camus's diagnosis can be accepted while his prescription is rejected—and that coherent alternative exists.
+This convergence represents a novel synthesis. The specific philosophical contribution is demonstrating that what appears to be disparate frameworks (existential phenomenology, self-constitution theory, pragmatist epistemology) are describing the same phenomenon from different angles—and that when properly integrated, they vindicate Camus's instincts while providing the derivations he lacked.
 
 ## The Practical Upshot
 

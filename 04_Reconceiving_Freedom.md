@@ -198,8 +198,10 @@ I find meaning in parenting not because the universe endorses it but because (a)
 
 Situated freedom provides foundation for addressing absurdism's ethical bootstrapping problem. If values emerge from structure of situated agency itself rather than from cosmic foundations or arbitrary choice, we can have ethics without transcendence.
 
-Chapter 5 develops this by drawing on Christine Korsgaard's self-constitution framework: acting constitutes the agent as having particular identity, and only some self-constitutions are coherent. This shows how normativity emerges from the structure of agency itself, grounded in practical rationality rather than cosmic meaning.
+Chapter 5 develops this in two stages. First, it shows that what Camus described phenomenologically—meaning-seeking beings confronting metaphysical silence—is what self-constitution theory describes structurally. The "meaning-seeking" Camus identified is not mysterious metaphysical hunger but the practical necessity of acting from reasons, which requires adopting practical identities. This bridge from phenomenology to structure completes the architecture Camus left unfinished.
 
-But the crucial preliminary move is reconceiving freedom as situated. Without this, we cannot explain how finite beings with history and relationships can be genuinely free while bound by values. We cannot distinguish authentic commitment from bad faith. We cannot resolve the tension between existential responsibility and practical sustainability.
+Second, it shows how these practical identities, when constrained by Absurdist conditions (mortality, contingency, no cosmic validation), generate normative force without transcendent grounding. Acting constitutes the agent as having particular identity, and only some self-constitutions can be sustained under full consciousness of the Absurd. This shows how normativity emerges from the structure of agency itself—not cosmic meaning, but agential necessity.
 
-Situated freedom provides the framework. Now we can build ethics upon it.
+The crucial preliminary move is reconceiving freedom as situated. Without this, we cannot explain how finite beings with history and relationships can be genuinely free while bound by values. We cannot distinguish authentic commitment from bad faith. We cannot resolve the tension between existential responsibility and practical sustainability.
+
+Situated freedom provides the framework. Now we can build ethics upon it—not by abandoning Camus but by completing the project his phenomenology necessarily implied.

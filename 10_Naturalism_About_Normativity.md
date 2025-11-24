@@ -350,222 +350,340 @@ Values are natural properties (they arise in natural world, involve natural orga
 
 This is non-reductive naturalism. Values supervene on natural facts (no moral difference without natural difference) but require normative concepts to describe.
 
-## 10.8 Defining Human Flourishing
+## 10.3 The Sustainability Test
 
-Throughout this book, I've tested practical identities and values by whether they enable "human flourishing" or "agency." But what do these terms mean? This vagueness is serious problem. Without specifying flourishing, pragmatic testing becomes circular: we test values by flourishing, but flourishing is defined by values we already accept.
+Throughout this book, I've tested practical identities and values by whether they enable "human flourishing" or "agency." But what do these terms mean? This vagueness is a serious problem. Without specifying what makes practical identities valid, pragmatic testing becomes circular: we test values by their consequences for "flourishing," but flourishing is defined by values we already accept.
 
-This section provides precise account of flourishing while acknowledging its contested nature.
+Standard responses appeal to lists of goods (Nussbaum's capabilities, Finnis's basic values, Mill's higher pleasures). But these lists appear arbitrary—why these goods rather than others? How do we avoid simply projecting our preferred values onto "flourishing"?
 
-### 10.8.1 Why Flourishing Needs Definition
+I propose a different criterion, one that follows directly from the framework developed in this book: **The Sustainability Test**. A practical identity is valid to the degree it can be maintained under full consciousness of Absurdist conditions—mortality, contingency, metaphysical silence, and the absence of cosmic validation.
 
-The framework relies on claims like:
-- "Practical identities are tested by consequences for flourishing" (Chapter 5)
-- "Hierarchical systems fail because they undermine flourishing" (Chapter 6)
-- "The Nazi identity produces suffering rather than flourishing" (Chapter 5)
+This is not arbitrary. It emerges directly from the book's central claim: What Camus described phenomenologically (meaning-seeking under conditions of silence) and what self-constitution theory describes structurally (practical identity formation) are complementary descriptions of the same phenomenon. If this is correct, then the test for valid practical identities is: Can they survive confrontation with the truth about our condition?
 
-But these claims are empty unless we specify what flourishing means. Is flourishing:
-- **Hedonic**: Maximum pleasure, minimum pain? (Bentham)
-- **Preference satisfaction**: Getting what you want? (Economics)
-- **Perfectionist**: Realizing human excellence? (Aristotle)
-- **Capabilities**: Having freedom to achieve valued functionings? (Sen/Nussbaum)
+### 10.3.1 What Sustainability Means
 
-Different conceptions give radically different results. The ascetic monk doesn't flourish hedonically but may flourish perfectionist-ly. The wealthy but anxious executive satisfies preferences but lacks wellbeing.
+A practical identity is sustainable if it can be coherently maintained when the agent:
+- **Acknowledges mortality**: Death is absolute horizon; no immortal soul, no eternal rewards
+- **Accepts contingency**: The universe is not designed for human flourishing; suffering is not distributed justly; effort does not guarantee success
+- **Confronts silence**: No cosmic meaning validates the identity; the universe does not care whether you maintain it
+- **Recognizes constructed nature**: The identity is self-constituted, not discovered; it has no transcendent foundation
 
-Without specification, I can't genuinely test values—I'm just projecting my own conception of good life onto "flourishing."
+**The crucial question**: Does the practical identity *collapse* under this recognition, or does it *remain coherent*?
 
-### 10.8.2 The Capabilities Approach
+**Why this matters**: If an identity requires self-deception about these features to be maintained, it is structurally unstable. It will eventually collide with reality. Better to adopt identities that accept Absurdist conditions from the start—these are tested by the harshest truths we know and survive.
 
-I adopt modified version of Amartya Sen and Martha Nussbaum's capabilities approach (*Development as Freedom*; *Creating Capabilities*).
+**This is not a counsel of despair**. It is the opposite: identities that survive full consciousness of the Absurd are stronger precisely because they don't rest on comfortable delusions. They are existentially verified, not cosmically validated.
 
-**Core idea**: Flourishing consists in having genuine freedom (capability) to achieve valuable functionings (ways of being and doing).
+**What do I mean by "Reality"?** Not ideology, preference, or social construction, but the **pragmatically inescapable constraints** that assert themselves regardless of what we believe or desire:
 
-**Why this approach**:
-1. Respects agency (focuses on freedom to choose, not just outcomes)
-2. Allows pluralism (people can realize capabilities differently)
-3. Empirically tractable (we can measure whether people have capabilities)
-4. Cross-culturally defensible (capabilities are broad enough to accommodate variation)
+- **Physical constraints**: Mortality (all biological organisms die), scarcity (resources are finite), embodiment (we have bodies with needs and limits), causation (actions have physical consequences)
+- **Biological constraints**: Human beings require food, water, shelter; experience pain and pleasure; have evolved capacities and limitations; are vulnerable to injury and disease
+- **Logical constraints**: Contradictions cannot be maintained; if P implies Q and Q is false, P is false; you cannot coherently claim X while denying X's preconditions
+- **Phenomenological constraints**: We are conscious, experience the Absurd (the collision between meaning-seeking and meaninglessness), cannot escape the standpoint of agency while deliberating
 
-### 10.8.3 The List of Central Capabilities
+These are not arbitrary stipulations or Western prejudices. They are constraints that *demonstrate themselves through living*. You can deny mortality philosophically, but your body ages regardless. You can claim logical contradictions are acceptable, but you cannot build a bridge using contradictory mathematics. You can reject the Absurd intellectually, but consciousness confronts you with meaninglessness anyway.
 
-Drawing on Nussbaum (*Creating Capabilities*, 33-34) with modifications:
+This is reality in the pragmatist sense: what resists wishful thinking, what constrains action, what reasserts itself no matter how we theorize. Practical identities are sustainable to the degree they accept rather than deny these constraints. The three failure modes (metaphysical, energetic, logical) correspond to denying physical/biological constraints, finite resources, and logical coherence respectively.
 
-**1. Life**: Being able to live a normal human lifespan; not dying prematurely
-- Health, nutrition, clean water, safety from violence
+Crucially, these constraints—finitude, contingency, and the gap between value and world—apply regardless of one's metaphysical commitments. Even the believer must interpret divine will through finite human understanding; even the theist faces the silence of the gap between text and action. Therefore, the Sustainability Test is not a test of atheism, but a test of robustness. It asks: Does this identity survive if the universe does not cooperate with your specific metaphysical wager? A sustainable identity is one that accounts for the 'worst-case' scenario of silence, thereby making it antifragile even in the 'best-case' scenario of faith.
 
-**2. Bodily health**: Being able to have good health, including reproductive health
-- Access to healthcare, adequate nutrition, shelter
+### 10.3.2 Three Failure Modes
 
-**3. Bodily integrity**: Being able to move freely, be secure against assault (including sexual assault)
-- Freedom from violence, security of person, bodily autonomy
+Practical identities fail the sustainability test in three ways: metaphysical collapse, energetic collapse, and logical collapse.
 
-**4. Senses, imagination, thought**: Being able to use senses, imagine, think, and reason
-- Education, freedom of expression, access to information, cultural participation
+#### **Failure Mode 1: Metaphysical Collapse**
 
-**5. Emotions**: Being able to have attachments; love, grieve, experience joy
-- Emotional development not blighted by fear or anxiety
-- Supportive relationships and social bonds
-
-**6. Practical reason**: Being able to form conception of good and plan one's life
-- This is agency itself—the capacity for self-governance
-- Freedom to deliberate and make meaningful choices
-
-**7. Affiliation**: Being able to live with and toward others, engage socially
-- Recognition as person with equal dignity
-- Social bases of self-respect
-- Ability to participate in relationships and community
-
-**8. Other species**: Being able to live with concern for animals, plants, nature
-- Connection to natural world
-
-**9. Play**: Being able to laugh, play, enjoy recreational activities
-- Leisure, rest, creative expression
-
-**10. Control over environment**:
-- **Political**: Participate in decisions affecting one's life, have voice in governance
-- **Material**: Hold property, work on equal terms, have economic security
-
-### 10.8.4 How This List Addresses Circularity
-
-This list is **not derived from my ethical framework**. It's grounded in:
-
-**1. Anthropological observation**: These capabilities are valued across diverse cultures. While specific realizations vary, the general categories appear cross-culturally.
-
-**2. Empirical connection to wellbeing**: When people lack these capabilities, they report suffering and dissatisfaction. When they possess them, wellbeing increases.
-
-**3. Evolutionary grounding**: These capabilities relate to human needs that evolved over millions of years—social connection, autonomy, health, knowledge.
-
-**4. Reflective endorsement**: When people are asked to deliberate about what constitutes good life, these capabilities consistently emerge.
-
-So I'm not defining flourishing by my preferred values and then using "flourishing" to test values. The list has independent justification.
-
-### 10.8.5 How to Use the List
-
-The list provides criteria for evaluating practical identities and social practices:
-
-**A practical identity is problematic if it**:
-- Systematically undermines any central capability for the agent
-- Systematically undermines capabilities for others
-- Requires false beliefs to maintain
-- Cannot be sustained through changing circumstances
+An identity suffers metaphysical collapse when it requires beliefs about reality that are **false** or **unjustified**, such that when the agent confronts the actual nature of reality, the identity cannot be maintained.
 
 **Examples**:
 
-**The Nazi identity**:
-- Undermines capabilities for victims (life, bodily integrity, affiliation, political participation)
-- Requires false beliefs (racial hierarchy)
-- Cannot be sustained (historical failure, requires massive violence)
-- **Verdict**: Fails pragmatic test
+**The religious fundamentalist** (certain forms):
+- Identity requires: Literal truth of sacred texts; cosmic justice ensuring righteous are rewarded; divine endorsement of actions
+- Reality: No evidence for these metaphysical claims; suffering is not distributed according to virtue; universe shows no signs of moral governance
+- **Why it collapses**: When faced with theodicy (innocent suffering), contingency (random tragedy), or empirical evidence contradicting texts, the identity requires either rejecting evidence or abandoning the identity
+- **Note**: Not all religious identities fail this test—those that don't require literal metaphysical claims or cosmic justice can survive
 
-**The ascetic monk**:
-- May constrain some capabilities (bodily pleasure, material control) but doesn't eliminate them
-- Develops other capabilities (practical reason, senses/imagination/thought, affiliation within community)
-- Doesn't systematically undermine others' capabilities
-- Can be sustained lifelong by some people
-- **Verdict**: Legitimate (though not universally appealing) practical identity
+**The Nazi/racial supremacist**:
+- Identity requires: Biological racial hierarchy; inherent superiority of some groups; historical destiny of master race
+- Reality: Genetic science shows no basis for racial hierarchy; no evidence of inherent superiority; history shows no teleological direction
+- **Why it collapses**: The identity rests on empirical falsehoods. When confronted with actual biology, anthropology, and history, adherents must either reject science or abandon the identity
+- **Moreover**: Maintaining the identity requires escalating violence to suppress evidence of falsity—treating members of "inferior" races as equals would expose the lie
 
-**The workaholic executive**:
-- Undermines own capabilities (emotions, affiliation, play, bodily health)
-- But doesn't require false beliefs or harm others systematically
-- **Verdict**: Suboptimal for agent but not categorically prohibited
+**The Marxist teleologist** (certain forms):
+- Identity requires: History has dialectical logic; communist society is inevitable; individual sacrifice serves historical necessity
+- Reality: No evidence history has inherent direction; no guarantee of progress; many "historically necessary" movements failed
+- **Why it collapses**: When revolution doesn't come, when communist experiments produce suffering, when "historical necessity" is revealed as projection, the identity loses foundation
 
-### 10.8.6 Pluralism Within the Framework
+**The pattern**: These identities require the universe to be *other than it is*. They depend on false metaphysics (racial hierarchy, divine justice, historical teleology). Reality eventually intrudes, forcing either cognitive dissonance or identity abandonment.
 
-Important: The list doesn't prescribe single way of life. It specifies capabilities (freedoms) not functionings (actual achievements).
+#### **Failure Mode 2: Energetic Collapse**
 
-**You flourish by**:
-- Having genuine freedom to realize these capabilities
-- Choosing which to emphasize (different people weight differently)
-- Realizing them in ways that fit your practical identities
+An identity suffers energetic collapse when it requires **infinite resources** or **denial of finitude**, such that maintaining it exhausts the agent or demands what finite beings cannot sustain.
 
-**Examples of legitimate variation**:
-- Scholar emphasizes thought/imagination; athlete emphasizes bodily health
-- Introvert realizes affiliation through few deep bonds; extrovert through many connections
-- Religious person finds meaning in spiritual practice; secular person in other pursuits
+**Examples**:
 
-All can flourish if they possess the capabilities—even if they realize them differently.
+**The pure hedonist** (pleasure maximization):
+- Identity requires: Constant pursuit of pleasure; avoidance of all discomfort; treating every moment as opportunity for gratification
+- Reality: Pleasure habituates (requires escalation); pain is inevitable; mortality cannot be denied forever
+- **Why it collapses**: Eventually age, illness, or tragedy intrudes. The hedonist identity has no resources for confronting suffering—it can only deny or flee it. When denial becomes impossible, the identity offers nothing
 
-### 10.8.7 Addressing Objections
+**The workaholic** (identity entirely defined by productivity):
+- Identity requires: Ignoring bodily limits; treating rest as waste; deriving all worth from output
+- Reality: Bodies break down; burnout occurs; mortality looms; productivity eventually declines
+- **Why it collapses**: The agent cannot maintain perpetual productivity. When bodies fail or retirement comes, the identity that depended entirely on work has nothing left
 
-**Objection 1**: "This list is Western/liberal ideology disguised as universal."
+**The utopian revolutionary** (certain forms):
+- Identity requires: Treating present as mere means to future perfection; sacrificing everything for coming utopia; ignoring current suffering for future redemption
+- Reality: The perfect society never arrives; sacrifices mount; current lives are the only lives we have
+- **Why it collapses**: After decades of deferred gratification for utopia that doesn't come, the identity requires either doubling down (denying evidence) or collapsing into despair
 
-**Response**: The capabilities are abstract enough to accommodate diverse realizations. Religious and secular, collectivist and individualist, traditional and modern societies can all enable these capabilities while differing on specifics.
+**The pattern**: These identities deny fundamental constraints (mortality, bodily limits, finitude). They require more than finite beings can give. Eventually, reality enforces the limits, and identities that depend on denying them break.
 
-Moreover, when asked directly, people in non-Western societies endorse these capabilities as valuable. This isn't Western imposition but cross-cultural convergence.
+#### **Failure Mode 3: Logical Collapse**
 
-**Objection 2**: "Who decides what counts as 'genuine freedom' or 'adequate health'?"
+An identity suffers logical collapse when it contains **internal contradictions** or **undermines its own conditions of possibility**.
 
-**Response**: This is specification question, not objection to framework. We determine thresholds through:
-- Empirical research (what levels of nutrition/health/education enable functioning?)
-- Social deliberation (what do affected communities consider adequate?)
-- Comparative analysis (what works in practice across contexts?)
+**Examples**:
 
-**Objection 3**: "Some capabilities conflict. You can't maximize all simultaneously."
+**The pure egoist** (recognizing no obligations):
+- Identity requires: Acting purely on self-interest; recognizing no genuine obligations
+- Problem: Practical reasoning requires treating some considerations as *reasons* (having normative force), not mere preferences
+- **Why it collapses**: If nothing is genuinely normative, the egoist has no grounds even for self-interest. Self-interest becomes mere preference with no rational authority. The identity undermines the normativity it depends on
 
-**Response**: Correct. The framework doesn't require maximizing all capabilities always. It requires:
-- Maintaining threshold level of each (no capability falls below minimum)
-- Making trade-offs transparently (not systematically sacrificing some for others)
-- Preserving agent's freedom to balance capabilities according to their practical identities
+**The liar** (Korsgaard's example):
+- Identity requires: Systematically deceiving others
+- Problem: Communication requires shared norms of truthfulness
+- **Why it collapses**: If I'm known as liar, my utterances cannot function as communication. The identity defeats itself by undermining conditions of linguistic exchange
 
-**Objection 4**: "This is still subjective—why these ten rather than others?"
+**The pure relativist**:
+- Identity requires: Claiming all values are equally valid, none privileged
+- Problem: This claim itself is normative—it says we *should* treat all values as equal
+- **Why it collapses**: The position performs what it denies. If all values are relative, so is relativism itself. The identity cannot consistently maintain its own stance
 
-**Response**: The list is provisional and revisable. Nussbaum herself says it's "open-ended and subject to ongoing revision" (34). If evidence showed:
-- These capabilities don't actually track wellbeing
-- Other capabilities are more fundamental
-- The list is culturally biased in ways that matter
+**The pattern**: These identities are internally incoherent. They depend on structures (normativity, communication, evaluation) that they simultaneously undermine. No amount of commitment can make them stable—logic itself defeats them.
 
-I would revise it. This is pragmatist fallibilism in action.
+### 10.3.3 Why the Nazi Fails (The Complete Argument)
 
-### 10.8.8 The Threshold Question
+The Nazi identity is often cited as test case for ethical frameworks. Can we show it's wrong without appealing to transcendent values? The sustainability test provides the resources.
 
-How much of each capability is required for flourishing? This matters practically.
+The Nazi identity fails **all three** sustainability tests:
 
-**Nussbaum's answer**: Each capability has threshold below which human life is not worthy of human dignity. We should bring all people above threshold for all capabilities.
+**1. Metaphysical Collapse**:
+- Requires false biological/historical claims about racial hierarchy
+- Cannot survive contact with actual science
+- Needs escalating violence to suppress evidence of falsity (treating Jews as capable scientists, artists, professionals exposes the lie of inferiority)
+- Like all identities based on empirical falsehoods, reality eventually intrudes
 
-**My addition**: Beyond threshold, trade-offs are permissible. Someone who sacrifices material comfort for artistic pursuit hasn't failed to flourish if they meet threshold and freely chose this.
+**2. Energetic Collapse**:
+- Requires infinite violence to maintain
+- Every generation of "inferior" people must be suppressed
+- Constant enforcement necessary because the suppressed will resist (they are agents, after all)
+- Unsustainable: Nazi Germany lasted 12 years before catastrophic collapse
 
-**The thresholds are**:
-- Not absolute (vary somewhat by context)
-- Not maximal (adequate suffices; don't need maximum)
-- Not static (rise as societies become more capable of providing them)
+**3. Logical Collapse**:
+- Claims to value strength, excellence, civilization
+- But depends on denying agency to those with these very qualities
+- Undermines the goods it claims to pursue (cannot develop science, art, culture when suppressing talented people)
+- Moreover: Recognition requirement (Chapter 5) shows agency itself requires recognizing others; Nazi systematically refuses this, becoming something less than fully rational agent
 
-This acknowledges both:
-- Human diversity (people balance capabilities differently)
-- Minimum standards (some deprivations are objectively bad)
+**The pragmatic test**: History shows Nazi identity collapsed spectacularly—not because God intervened, but because identities requiring false metaphysics, infinite violence, and logical contradiction are structurally unsustainable.
 
-### 10.8.9 Connecting to Agency
+**Why this is not circular**: I'm not saying "Nazi is wrong because I don't like it." I'm saying "Nazi identity cannot be sustained under full consciousness of reality—it requires metaphysical delusions, impossible resources, and performative contradictions."
 
-Why does framework emphasize both "agency" and "flourishing"? Aren't these redundant?
+Someone might respond: "But Nazis *did* maintain the identity!" Yes, for 12 years, through massive self-deception, propaganda suppressing evidence, and unsustainable violence. The identity's collapse was inevitable, built into its structure. That's the test.
 
-No. They're related but distinct:
+### 10.3.3a The Deeper Point: Fighting Reality Is Energetically Expensive
 
-**Agency**: Capacity for practical reasoning, self-constitution through action, recognition by others. This is what makes you a moral agent.
+The Nazi objection reveals a deeper principle about sustainable practical identities: **identities that fight reality are thermodynamically doomed**.
 
-**Flourishing**: Having capabilities to live well, realize potential, avoid suffering. This is what makes life go well for agents.
+This is not metaphor. Consider the energetic requirements of maintaining the Nazi identity:
 
-**The connection**: Agency is itself one capability (#6: practical reason). But it's special because it enables using other capabilities meaningfully. Without agency, having capabilities is less valuable (paternalism that provides health, education, security but denies autonomy).
+**Observation 1: Reality continuously provides counterevidence**
+- Jews demonstrating scientific excellence (Einstein, Bohr, hundreds of others)
+- Jews creating great art, literature, philosophy
+- Jews exhibiting precisely the "superior" qualities Nazis claim for themselves
+- Mixed families showing no biological differences
 
-So the framework emphasizes:
-- **Agency** when discussing what grounds normativity (practical identities)
-- **Flourishing** when discussing what makes practices successful (they enable capabilities)
+**Observation 2: Suppressing this evidence requires energy**
+- Book burning (physical destruction of counterevidence)
+- Propaganda systems (continuous reframing of observable facts)
+- Violence against exemplars (murdering those who demonstrate inconvenient excellence)
+- Educational indoctrination (preventing each new generation from noticing reality)
 
-Both are necessary; neither is reducible to the other.
+**Observation 3: Reality doesn't stop**
+- Every day generates new counterevidence
+- Every birth produces new humans who might notice the contradictions
+- Every scientific advance threatens the metaphysical framework
+- The evidence generation is *entropic*—it increases over time
 
-### 10.8.10 Practical Upshot
+**The thermodynamic argument**: An identity requiring continuous suppression of accumulating evidence consumes unbounded energy. Like a perpetual motion machine fighting friction, it cannot be sustained indefinitely. The Nazi identity didn't collapse because God intervened or because of moral progress—it collapsed because *fighting reality is expensive* and Germany ran out of resources.
 
-This specification of flourishing makes pragmatic testing non-circular:
+**Why this matters philosophically**: This grounds the sustainability test not just in logical coherence but in physical constraint. An identity might be *logically* formulable (I can write down "Some humans have agency, others don't") without being *energetically* sustainable (maintaining this belief while interacting with humans requires infinite cognitive energy to reframe their agency-demonstrating behaviors).
 
-**Before**: "Values are tested by flourishing" (undefined)
+**Generalization to all identities**: Any practical identity requiring systematic denial of observable features of reality will face escalating energetic costs:
+- The youth-identity must suppress evidence of aging (cosmetic interventions, social isolation, increasingly desperate measures)
+- The success-identity denying contingency must explain away each failure (conspiracy theories, blame, cognitive gymnastics)
+- The religious literalist must suppress scientific evidence (book banning, hermetic communities, intellectual isolation)
 
-**After**: "Values are tested by whether they enable people to possess and exercise central human capabilities while maintaining rational agency"
+These identities can be maintained temporarily, at cost. But the cost escalates because reality doesn't stop generating evidence.
 
-This is:
-- Empirically tractable (we can measure capabilities)
-- Not arbitrary (grounded in anthropology, biology, cross-cultural convergence)
-- Pluralist (allows diverse realizations)
-- Revisable (if evidence shows list is inadequate)
+**In contrast: Identities accepting reality from the start**
 
-It won't satisfy everyone—philosophers will object to specifics. But it's far better than leaving "flourishing" undefined while using it to justify claims.
+The committed parent who accepts mortality, contingency, and cosmic silence faces reality head-on. When child suffers, parent doesn't need to deny the suffering, explain it away as divine punishment, suppress evidence of randomness, or maintain elaborate theological frameworks. The parent can simply respond: "Yes, this is terrible. Yes, it's random. Yes, I'm mortal and cannot ultimately prevent all harm. And I remain committed to my child's flourishing despite these truths."
 
+**This is energetically cheap.** Reality confirms rather than contradicts the identity's assumptions. No escalating suppression required.
+
+**The principle**: Practical identities sustainable under Absurdist conditions are those requiring minimal energy to maintain against accumulating evidence. This is why accepting meaninglessness, mortality, and contingency from the start—rather than fighting them—produces more stable identities. You're working with reality's grain, not against it.
+
+The Nazi identity is paradigm case of entropic doom: an identity that could only be maintained by fighting the second law of thermodynamics. It was doomed from conception, not by morality but by physics.
+
+### 10.3.4 Why Pragmatic Absurdism Succeeds
+
+In contrast, practical identities that accept Absurdist conditions from the start are structurally stable.
+
+**The craftsman** (example):
+- Acknowledges mortality: "My work won't last forever, and that's fine"
+- Accepts contingency: "I may fail, market may not value my work, I may lose ability through injury"
+- Confronts silence: "The universe doesn't care about my craft, but I do"
+- Recognizes construction: "I chose this identity through action and commitment, not discovery of cosmic purpose"
+
+**Why it survives**: The identity makes no claims that reality contradicts. It doesn't require immortality, guaranteed success, cosmic validation, or perfect justice. When tragedy strikes (workshop burns down, arthritis develops, work goes unappreciated), the identity has resources for response: "I knew this could happen. The identity wasn't based on outcomes but on engagement with the craft itself."
+
+**The committed parent**:
+- Acknowledges mortality: "I cannot ultimately save my child from death"
+- Accepts contingency: "My child may suffer undeserved hardships; my parenting may fail despite best efforts"
+- Confronts silence: "No cosmic plan designated me as parent or ensures my child's flourishing"
+- Recognizes construction: "I chose this identity and constitute myself as parent through ongoing action"
+
+**Why it survives**: When parenting is hard, when children suffer, when outcomes aren't perfect—the identity doesn't collapse. It was never based on false promises of protection or guaranteed success. The parent who accepts finitude and contingency from the start can continue parenting through tragedy.
+
+**The pattern**: Identities that begin with clear-eyed recognition of Absurdist conditions don't break when confronted with those conditions. They are pre-adapted to the truth. This is not resignation but realism—and realism is more stable than delusion.
+
+### 10.3.5 The Testability Criterion
+
+A crucial advantage of the sustainability test: **it's empirically testable**.
+
+We can observe:
+- **Which identities people abandon** when confronted with mortality, tragedy, evidence
+- **Which require escalating self-deception** to maintain
+- **Which produce breakdowns** (cognitive dissonance, despair, violence)
+- **Which remain stable** through changing circumstances
+
+**Examples of empirical evidence**:
+
+**Observation 1**: People who ground identity entirely in youth/beauty often experience crisis when aging occurs. Those who grounded identity in developing capacities (wisdom, relationships, craft) transition more smoothly. The sustainability test predicts this: identities denying mortality fail when mortality intrudes.
+
+**Observation 2**: Religious believers who interpret texts literally often face crisis when confronted with scientific evidence or problem of evil. Those with less literal interpretations show more stability. The test predicts: identities requiring false metaphysics are less stable than those compatible with evidence.
+
+**Observation 3**: Totalitarian movements (Nazism, Stalinism, Maoism) required massive violence and eventually collapsed. Movements that didn't promise utopia or require false metaphysics (pragmatic social democracy, for instance) proved more sustainable. The test predicts: identities requiring impossible conditions will fail.
+
+**Observation 4**: People who find meaning through "engagement with practices" (craft, relationships, inquiry) report more stable wellbeing than those seeking "happiness" or "success." The test predicts: identities accepting contingency (outcomes not guaranteed) more stable than those requiring specific results.
+
+This is not proof, but it's evidence. The sustainability test generates predictions that can be checked against human experience. That's more than most ethical frameworks offer.
+
+### 10.3.6 The Pluralism Within Constraint
+
+Important: The sustainability test doesn't prescribe a single way of life. It specifies **constraints**, not content.
+
+**Many practical identities pass the test**:
+- The craftsman and the scientist (both engage capacities without denying finitude)
+- The parent and the teacher (both develop others' agency without requiring perfect outcomes)
+- The activist and the artist (both create meaning through engagement without cosmic guarantees)
+- The religious contemplative and the secular philosopher (both can maintain identity without false metaphysics if appropriately conceived)
+
+**These identities differ radically in content** but share structure: they can be sustained under full consciousness of Absurdist conditions.
+
+**The test rules out**:
+- Identities requiring false metaphysics
+- Identities denying fundamental constraints
+- Identities undermining their own conditions
+
+But within those constraints, **vast diversity** remains possible.
+
+### 10.3.7 Addressing the "Still Arbitrary" Objection
+
+Critic: "You've just replaced Nussbaum's arbitrary list with an arbitrary criterion. Why should we accept 'sustainability under Absurdist conditions' as the test?"
+
+**Response**: This isn't arbitrary because it follows directly from the book's central argument.
+
+**The derivation**:
+
+1. **Phenomenological premise** (Chapter 1): We are meaning-seeking beings confronting an indifferent universe (Camus's diagnosis)
+
+2. **Structural implication** (Chapter 5, Section 5.1): Meaning-seeking = self-constitution through practical identities (phenomenology implies structure)
+
+3. **Absurdist constraints** (Chapter 5, Section 5.1.4): Self-constitution happens under conditions of mortality, contingency, silence, no cosmic validation (these are the background conditions)
+
+4. **Pragmatist methodology** (Chapter 11): Values are tested by whether they work—whether they can be sustained through experience
+
+5. **Sustainability criterion follows**: If meaning-seeking = self-constitution under Absurdist constraints, then valid practical identities = those sustainable under those constraints
+
+**The criterion isn't stipulated**; it's **derived from the framework's premises**. If you accept that we are self-constituting agents under Absurdist conditions (the book's central claim), then sustainability under those conditions is the logically appropriate test.
+
+**Moreover**: This criterion has bite. It rules out substantial categories of practical identities (those requiring false metaphysics, denying finitude, or logically incoherent). It's not vacuous or question-begging.
+
+### 10.3.8 Integration with Pragmatism
+
+The sustainability test integrates perfectly with pragmatist methodology:
+
+**Dewey's pragmatism**: Test ideas by their consequences in experience
+**Applied here**: Test practical identities by whether they survive confrontation with reality (mortality, contingency, evidence)
+
+**James's pragmatism**: Beliefs are true if they "work" (enable successful navigation of experience)
+**Applied here**: Practical identities are valid if they "work" (remain coherent under full consciousness of our condition)
+
+**Peirce's pragmatism**: Truth is what would be accepted by the community of inquiry in the long run
+**Applied here**: Valid practical identities are those that survive long-term testing by people living under Absurdist conditions
+
+The sustainability test is **weaponized pragmatism**—testing against the hardest cases (mortality, tragedy, evidence of contingency) rather than easier cases (does it make me happy? does it feel good?).
+
+This makes the test more demanding, not less. Identities that survive sustainability testing have been stress-tested against fundamental realities. They are pragmatically verified in the strongest sense.
+
+### 10.3.9 Why This Solves the Circularity Problem
+
+**The original problem**: "You test values by consequences for flourishing, but define flourishing by your preferred values."
+
+**How sustainability test solves it**:
+
+**The test is external to my value preferences**. I don't choose what counts as "mortality" or "contingency" or "metaphysical silence"—these are features of reality independent of my preferences.
+
+**The test has objective content**: An identity either does or doesn't require false metaphysics; it either can or cannot be maintained under full consciousness of finitude.
+
+**The test is empirically tractable**: We can observe which identities people abandon when confronted with tragedy, which require self-deception, which produce stability.
+
+**Example**: I don't personally endorse Nazi ideology. But the sustainability test shows it fails **independently of my preferences**:
+- It requires false biological claims (objective fact)
+- It collapsed historically (empirical observation)
+- It demands infinite violence (structural analysis)
+- It undermines goods it claims to pursue (logical analysis)
+
+None of this depends on whether I like or dislike Nazism. The test is external.
+
+**Contrast with Nussbaum's list**: Why ten capabilities rather than nine or eleven? The list seems stipulated—a reflection of contemporary Western liberal values, however well-justified. The sustainability test, by contrast, is **derived from the framework's core claims** and **tested against reality**.
+
+### 10.3.10 Practical Upshot
+
+The sustainability test provides concrete guidance for evaluating practical identities:
+
+**Questions to ask**:
+
+1. **Metaphysical test**: Does this identity require beliefs I know are false or unjustified? Does it depend on cosmic justice, guaranteed outcomes, or transcendent validation?
+
+2. **Finitude test**: Can I maintain this identity while fully acknowledging mortality, contingency, and the possibility of failure? Or does it require denying limits?
+
+3. **Lucidity test**: Could I maintain this identity while remaining fully conscious of the Absurd—while knowing the universe doesn't care, that there's no cosmic meaning, that outcomes aren't guaranteed?
+
+4. **Stability test**: Do I observe people abandoning this identity when confronted with tragedy or evidence? Does it require increasing self-deception over time?
+
+**If the identity passes these tests**, it is a viable candidate for adoption—not because it's transcendently validated, but because it's structurally stable under the conditions we actually face.
+
+**If the identity fails these tests**, it will eventually collapse—if not for you, then for others; if not now, then when reality intrudes more forcefully.
+
+**This is existentially verified ethics**: Not ethics derived from cosmic facts or pure reason, but ethics tested against the harshest truths we know and found sustainable. That is as close to "objective" as finite beings can get.
+
+---
+
+*[This replaces Section 10.8 (Nussbaum's list). Section 10.9 ("Practical Implications") follows, with minor revisions to remove Nussbaum references.]*
 ## 10.9 Practical Implications
 
 This metaethics is not mere abstract theory. It has practical implications:
